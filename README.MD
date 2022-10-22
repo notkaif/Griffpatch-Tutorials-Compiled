@@ -9,4 +9,6 @@ Mobile Joysticks - https://www.youtube.com/watch?v=9TK8x2nSMPI&ab_channel=griffp
 
 Trail Effects - https://www.youtube.com/watch?v=cenBN8I62FQ&ab_channel=griffpatch
 
+This could be used to get a headstart on making epic games or if you are just lazy. Most of them are backpackable so backpack them!
+
 <sub>by notkaif</sub>
