@@ -7,4 +7,6 @@ Health Bars Reimagined - https://www.youtube.com/watch?v=dtMy3umcoEI&ab_channel=
 
 Mobile Joysticks - https://www.youtube.com/watch?v=9TK8x2nSMPI&ab_channel=griffpatch
 
+Trail Effects - https://www.youtube.com/watch?v=cenBN8I62FQ&ab_channel=griffpatch
+
 <sub>by notkaif</sub>
